@@ -25,18 +25,10 @@ Key components:
 
 ## Requirements
 
-- Python 3.8+
-- PyTorch ≥ 1.10
-- torch_geometric
-- NumPy
-- scikit-learn
-- tqdm
-- wandb
-
-Install all dependencies:
+Install all required Python dependencies with:
 
 ```bash
-pip install torch torch_geometric numpy scikit-learn tqdm wandb
+pip install -r requirements.txt
 ```
 
 ---
